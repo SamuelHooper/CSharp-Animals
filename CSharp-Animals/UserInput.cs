@@ -29,7 +29,7 @@ namespace CSharp_Animals
                 Console.WriteLine("1. Cat");
                 Console.WriteLine("2. Dog");
                 Console.WriteLine("3. Teacher");
-                Console.WriteLine("Press 4 to Exit");
+                Console.WriteLine("Press 4 to Exit and List Zoo Creatures");
 
                 bool validOption;
                 do //Loop for selecting a valid option
